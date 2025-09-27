@@ -1,0 +1,27 @@
+{
+    "0241": {
+        "employee_id": "0241",
+        "name": "Alex",
+        "department": "CSE",
+        "monthly_salary": 120000.0,
+        "employee_type": "Full Time"
+    },
+    "8901": {
+        "employee_id": "8901",
+        "name": "Rosh",
+        "department": "Design",
+        "hourly_rate": 400.0,
+        "hours_worked_per_month": 500.0,
+        "salary": 200000.0,
+        "employee_type": "Part Time"
+    },
+    "2345": {
+        "employee_id": "2345",
+        "name": "Alice",
+        "department": "HR",
+        "monthly_salary": 200000.0,
+        "employee_type": "Manager",
+        "bonus": 20000.0,
+        "salary": 220000.0
+    }
+}
